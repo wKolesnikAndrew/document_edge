@@ -1,0 +1,7 @@
+Executable : /home/akolesnik/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/armeabi-v7a
+native_edge_detection
+jvmArgs : 
+

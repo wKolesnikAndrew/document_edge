@@ -1,0 +1,217 @@
+{
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 21,
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "cmake": {
+    "cmakeArtifactsBaseFolder": "/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/arm64-v8a",
+    "cmakeServerLogFile": "/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/arm64-v8a/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cxx/debug/arm64-v8a",
+    "effectiveConfiguration": {
+      "name": "traditional-android-studio-cmake-environment",
+      "description": "Composite reified CMakeSettings configuration",
+      "generator": "Ninja",
+      "inheritEnvironments": [
+        "ndk"
+      ],
+      "buildRoot": "/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/arm64-v8a",
+      "cmakeToolchain": "/home/akolesnik/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake",
+      "cmakeExecutable": "/home/akolesnik/Android/Sdk/cmake/3.10.2.4988404/bin/cmake",
+      "variables": [
+        {
+          "name": "CMAKE_CXX_FLAGS",
+          "value": "-frtti -fexceptions -std\u003dc++11"
+        },
+        {
+          "name": "CMAKE_FIND_ROOT_PATH",
+          "value": "/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/prefab/arm64-v8a/prefab"
+        },
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Debug"
+        },
+        {
+          "name": "CMAKE_TOOLCHAIN_FILE",
+          "value": "/home/akolesnik/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake"
+        },
+        {
+          "name": "ANDROID_ABI",
+          "value": "arm64-v8a"
+        },
+        {
+          "name": "ANDROID_NDK",
+          "value": "/home/akolesnik/Android/Sdk/ndk/22.1.7171670"
+        },
+        {
+          "name": "ANDROID_PLATFORM",
+          "value": "android-21"
+        },
+        {
+          "name": "CMAKE_ANDROID_ARCH_ABI",
+          "value": "arm64-v8a"
+        },
+        {
+          "name": "CMAKE_ANDROID_NDK",
+          "value": "/home/akolesnik/Android/Sdk/ndk/22.1.7171670"
+        },
+        {
+          "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
+          "value": "ON"
+        },
+        {
+          "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
+          "value": "/home/akolesnik/IdeaProjects/document_edge/example/build/document_edge/intermediates/cmake/debug/obj/arm64-v8a"
+        },
+        {
+          "name": "CMAKE_MAKE_PROGRAM",
+          "value": "/home/akolesnik/Android/Sdk/cmake/3.10.2.4988404/bin/ninja"
+        },
+        {
+          "name": "CMAKE_SYSTEM_NAME",
+          "value": "Android"
+        },
+        {
+          "name": "CMAKE_SYSTEM_VERSION",
+          "value": "21"
+        },
+        {
+          "name": "ANDROID_STL",
+          "value": "c++_shared"
+        }
+      ]
+    }
+  },
+  "cxxBuildFolder": "/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/arm64-v8a",
+  "info": {
+    "abi": "ARM64_V8A",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/arm64-v8a",
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cFlagsList": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "cppFlagsList": [
+      "-frtti -fexceptions -std\u003dc++11"
+    ],
+    "isDebuggableEnabled": true,
+    "module": {
+      "buildSystem": "CMAKE",
+      "cmake": {
+        "cmakeExe": "/home/akolesnik/Android/Sdk/cmake/3.10.2.4988404/bin/cmake",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "/home/akolesnik/Android/Sdk/cmake/3.10.2.4988404/bin/ninja"
+      },
+      "cmakeToolchainFile": "/home/akolesnik/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake",
+      "cxxFolder": "/home/akolesnik/IdeaProjects/document_edge/android/.cxx",
+      "gradleModulePathName": ":document_edge",
+      "intermediatesFolder": "/home/akolesnik/IdeaProjects/document_edge/example/build/document_edge/intermediates",
+      "makeFile": "/home/akolesnik/IdeaProjects/document_edge/android/CMakeLists.txt",
+      "moduleBuildFile": "/home/akolesnik/IdeaProjects/document_edge/android/build.gradle",
+      "moduleRootFolder": "/home/akolesnik/IdeaProjects/document_edge/android",
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkFolder": "/home/akolesnik/Android/Sdk/ndk/22.1.7171670",
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkVersion": "22.1.7171670",
+      "project": {
+        "compilerSettingsCacheFolder": "/home/akolesnik/IdeaProjects/document_edge/example/android/.cxx",
+        "cxxFolder": "/home/akolesnik/IdeaProjects/document_edge/example/android/.cxx",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "rootBuildGradleFolder": "/home/akolesnik/IdeaProjects/document_edge/example/android",
+        "sdkFolder": "/home/akolesnik/Android/Sdk",
+        "isPrefabEnabled": false
+      },
+      "splitsAbiFilterSet": [],
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/home/akolesnik/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/home/akolesnik/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/home/akolesnik/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/home/akolesnik/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      }
+    },
+    "objFolder": "/home/akolesnik/IdeaProjects/document_edge/example/build/document_edge/intermediates/cmake/debug/obj",
+    "variantName": "debug",
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "prefabDirectory": "/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/prefab",
+    "prefabPackageDirectoryList": []
+  },
+  "prefabFolder": "/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/prefab/arm64-v8a"
+}

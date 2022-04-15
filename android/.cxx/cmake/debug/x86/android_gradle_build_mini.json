@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "/home/akolesnik/IdeaProjects/document_edge/android/CMakeLists.txt",
+    "/home/akolesnik/Android/Sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake",
+    "/home/akolesnik/Android/Sdk/ndk/22.1.7171670/build/cmake/platforms.cmake",
+    "/home/akolesnik/Android/Sdk/ndk/22.1.7171670/build/cmake/compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "/home/akolesnik/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/home/akolesnik/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native_edge_detection-Debug-x86": {
+      "artifactName": "native_edge_detection",
+      "buildCommand": "/home/akolesnik/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/x86\" native_edge_detection",
+      "abi": "x86",
+      "output": "/home/akolesnik/IdeaProjects/document_edge/example/build/document_edge/intermediates/cmake/debug/obj/x86/libnative_edge_detection.so",
+      "runtimeFiles": [
+        "/home/akolesnik/IdeaProjects/document_edge/android/src/main/jniLibs/x86/libopencv_java4.so"
+      ]
+    }
+  }
+}

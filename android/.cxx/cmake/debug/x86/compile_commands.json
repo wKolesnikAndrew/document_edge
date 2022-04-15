@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/x86",
+  "command": "/home/akolesnik/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/home/akolesnik/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/akolesnik/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_edge_detection_EXPORTS -I../../../../../include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_edge_detection.dir/home/akolesnik/IdeaProjects/document_edge/ios/Classes/native_edge_detection.cpp.o -c /home/akolesnik/IdeaProjects/document_edge/ios/Classes/native_edge_detection.cpp",
+  "file": "/home/akolesnik/IdeaProjects/document_edge/ios/Classes/native_edge_detection.cpp"
+},
+
+{
+  "directory": "/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/x86",
+  "command": "/home/akolesnik/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/home/akolesnik/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/akolesnik/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_edge_detection_EXPORTS -I../../../../../include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_edge_detection.dir/home/akolesnik/IdeaProjects/document_edge/ios/Classes/edge_detector.cpp.o -c /home/akolesnik/IdeaProjects/document_edge/ios/Classes/edge_detector.cpp",
+  "file": "/home/akolesnik/IdeaProjects/document_edge/ios/Classes/edge_detector.cpp"
+},
+
+{
+  "directory": "/home/akolesnik/IdeaProjects/document_edge/android/.cxx/cmake/debug/x86",
+  "command": "/home/akolesnik/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/home/akolesnik/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/akolesnik/Android/Sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dnative_edge_detection_EXPORTS -I../../../../../include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native_edge_detection.dir/home/akolesnik/IdeaProjects/document_edge/ios/Classes/image_processor.cpp.o -c /home/akolesnik/IdeaProjects/document_edge/ios/Classes/image_processor.cpp",
+  "file": "/home/akolesnik/IdeaProjects/document_edge/ios/Classes/image_processor.cpp"
+}
+]
