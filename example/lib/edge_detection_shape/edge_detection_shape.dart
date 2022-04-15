@@ -2,7 +2,7 @@ import 'dart:math';
 // import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:document_edge/edge_detection.dart';
+import 'package:document_edge/document_edge.dart';
 
 import 'edge_painter.dart';
 import 'magnifier.dart';
